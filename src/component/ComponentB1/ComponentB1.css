@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Bigelow+Rules&family=Gideon+Roman&family=Work+Sans:wght@200&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bigelow+Rules&family=Merriweather:wght@700&family=Work+Sans:wght@200&display=swap');
+
+.img2{
+    width: 800px;
+    height: 300px;
+
+    min-width: 400px;
+    min-height: 150px;
+    
+}
+.container{
+    padding-top: 0px;
+}
+.para{
+    padding-top: 0px;
+    font-family: 'Gideon Roman', cursive;
+    font-size: 15px;
+    margin-bottom: 0px;
+
+}
+.para2{
+    margin-bottom: 0px;
+     margin-top: 0px;
+    font-family: 'Gideon Roman', cursive;
+    font-size: 14px;
+}
+.DIV{
+    margin-top: 0px;
+}
+.para3{
+  font-family: 'Merriweather', serif;
+}
+
+.textC{
+    color:#FC4F4F; 
+        font-weight:bold; 
+        font-family: 'Gideon Roman', cursive;
+}
