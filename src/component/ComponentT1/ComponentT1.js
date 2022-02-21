@@ -9,11 +9,11 @@ function ComponentT1() {
     <div>
       <Container>
         <Row>
-          <Col sm={2} md={4}>
+          <Col sm={4} md={4}>
               <img className="image img-fluid" src={award} alt="award" />
            
           </Col>
-          <Col sm={10} md={8}>
+          <Col sm={8} md={8}>
             <p className="boldT">
               C.R.I PUMPS WINS THE NATIONAL ENERGY CONSERVATION AWARD 2018 FOR
               THE 4TH TIME.
